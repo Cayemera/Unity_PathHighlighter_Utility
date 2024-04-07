@@ -1,5 +1,5 @@
 # Unity_PathHighlighter_Utility
-A simple Utility to trace the path of an object in Unity scene and game view.
+A simple Utility to trace the path of an object in Unity scene and game view using instanced meshes.
 
 **Demo** <br />
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBpeTliaGNqNTYxaWt3b3BpMDJ2ZHJ5YXoydW5zbWZ4NjRtOGd2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DCyw9nbjVvfB4dVo71/giphy.gif)
